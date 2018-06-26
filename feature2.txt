@@ -5,3 +5,4 @@ Untracked files:
 nothing added to commit but untracked files present
 On branch ticket-2
 nothing to commit, working tree clean
+fixed bugs in feature 2
